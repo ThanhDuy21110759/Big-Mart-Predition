@@ -25,4 +25,6 @@ The data-set is also based on hypotheses of store level and product level. Where
 |   Outlet_Type   |   Whether the outlet is just a grocery store or some sort of supermarket   |
 |   Item_Outlet_Sales   |   Sales of a product at a specific store.   |
 
+### Link to Dataset
+
 Link to this project dataset: https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets/data
